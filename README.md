@@ -1,2 +1,1 @@
-ali
-sarang
+said
