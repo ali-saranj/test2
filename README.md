@@ -1,4 +1,1 @@
-salam 
-ali sarang
-hastam
-a
+sara hastam
